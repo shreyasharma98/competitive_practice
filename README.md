@@ -5,6 +5,7 @@ This is a practice repo consist of some intresting competitive coding practice.<
 ```
 Input : row = 7, column = 7        
 Output:
+
   *     * * * *
   *     *
   *     *
