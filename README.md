@@ -14,7 +14,7 @@ Output:
         *     *
   * * * *     *
   ```
-# 2. Print the no. of trailing zeros in the factorial of a number : 
+# 2. Print the no. of trailing zeros in the factorial of a number : tail_zeros_in_facorial.cpp
 ```
 Input : 20
 output: 4 
