@@ -50,3 +50,4 @@ bool isPrime(int n) {
 ```
 Complexity : O(sqrtN)<br>
 The best method is : prime sieve : https://github.com/shreyasharma98/competitive_practice/blob/master/prime_sieve.cpp
+reference : https://www.youtube.com/watch?v=yB57bcffJo4&list=PLl4Y2XuUavmuFLS-RJCGUYiJNMw2wQYKX&index=6
