@@ -14,7 +14,7 @@ Output:
         *     *
   * * * *     *
   ```
-# 2. Print the no. of trailing zeros in the factorial of a number : tail_zeros_in_facorial.cpp
+## 2. Print the no. of trailing zeros in the factorial of a number : tail_zeros_in_facorial.cpp
 ```
 Input : 20
 output: 4 
@@ -30,3 +30,23 @@ explaination : 5*4*3*2*1 = 120
 Original array: 7 12 9 15 19 32 56 70 
 The second largest element is: 56
 ```
+## 3. To find the prime in the given range : prime_sieve.cpp
+The naive approach will be : 
+```
+//Naive Approach 
+bool isPrime(int n) {
+	if (n == 1) {
+		return false;
+	}
+	if (n == 2) {
+		return true;
+	}
+	for (int i = 2; i * i < n; i++) {
+		if (n % i == 0)
+			return false;
+	}
+	return true;
+}
+```
+Complexity : O(sqrtN)<br>
+The best method is : prime sieve : https://github.com/shreyasharma98/competitive_practice/blob/master/prime_sieve.cpp
