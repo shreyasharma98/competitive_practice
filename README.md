@@ -1,7 +1,7 @@
 ## Competitive_practice
 
 This is a practice repo consist of some intresting competitive coding practice.<br>
-# 1. Print swastic pattern : swastik.cpp
+### 1. Print swastic pattern : swastik.cpp
 ```
 Input : row = 7, column = 7        
 Output:
@@ -14,7 +14,7 @@ Output:
         *     *
   * * * *     *
   ```
-### 2. Print the no. of trailing zeros in the factorial of a number : tail_zeros_in_facorial.cpp
+# 2. Print the no. of trailing zeros in the factorial of a number : tail_zeros_in_facorial.cpp
 ```
 Input : 20
 output: 4 
