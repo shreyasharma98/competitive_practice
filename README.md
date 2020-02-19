@@ -51,3 +51,15 @@ bool isPrime(int n) {
 Complexity : O(sqrtN)<br>
 The best method is : prime sieve : https://github.com/shreyasharma98/competitive_practice/blob/master/prime_sieve.cpp
 reference : https://www.youtube.com/watch?v=yB57bcffJo4&list=PLl4Y2XuUavmuFLS-RJCGUYiJNMw2wQYKX&index=6
+
+### 1. pattern problem : complex_sqare.cpp
+```
+Input : n = 5        
+Output:
+
+ 1    2   3    4   5
+ 11   12  13   14  15
+ 21   22  23   24  25
+ 16   17  18   19  20
+ 6    7    8   9   10
+  ```
