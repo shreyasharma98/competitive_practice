@@ -67,10 +67,11 @@ Output:
 An artist require n ingredients to make 1 PowerPuff Girl.The quantity each n ingredients required to 1 such doll also given in the 2nd line of the input.The quantity of each ingredient present in the shop is given in the 3rd line.
 Find the maximum number of dolls which can be made out of the present Ingredients.
 ```
- Sample Input
+Sample Input
 4
 2 5 6 3
 20 40 90 50
+
 Sample Output
 8
 ```
